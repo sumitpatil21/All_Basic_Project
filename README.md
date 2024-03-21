@@ -14,3 +14,24 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <center> 
+        <p>
+        <img src="D:\ph\ui_image\ui_2.png" alt="" height="10%" width="10%" ><br><br>
+        <img src="D:\ph\ui_image\ui_3.png" alt="" height="10%" width="10%" ><br><br>
+        <img src="D:\ph\ui_image\ui_4.png" alt="" height="10%" width="10%" ><br><br>
+        <img src="D:\ph\ui_image\ui_5.png" alt="" height="10%" width="10%" ><br><br>
+        <img src="D:\ph\ui_image\ui_6.png" alt="" height="10%" width="10%" ><br><br>
+        </p>
+    </center>
+   
+    
+</body>
+</html>
