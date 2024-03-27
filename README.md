@@ -24,12 +24,13 @@ samples, guidance on mobile development, and a full API reference.
 <body>
     <center> 
         <p>
-        <img src="D:\ph\ui_image\ui_2.png" alt="" height="10%" width="10%" ><br><br>
+        <img src="D:https://github.com/sumitpatil21/All_Basic_Project/assets/148967002/49f06e39-502d-4bbe-a1d4-0384f630b43c" alt="" height="10%" width="10%" ><br><br>
         <img src="D:\ph\ui_image\ui_3.png" alt="" height="10%" width="10%" ><br><br>
         <img src="D:\ph\ui_image\ui_4.png" alt="" height="10%" width="10%" ><br><br>
         <img src="D:\ph\ui_image\ui_5.png" alt="" height="10%" width="10%" ><br><br>
         <img src="D:\ph\ui_image\ui_6.png" alt="" height="10%" width="10%" ><br><br>
-        </p>
+        </p>![ui_1]()
+
     </center>
    
     
