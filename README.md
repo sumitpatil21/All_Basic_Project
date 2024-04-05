@@ -24,7 +24,7 @@ samples, guidance on mobile development, and a full API reference.
 <body>
     <center> 
         <p>
-        <img src="file:///D:/ph/ui(1).png" alt="" height="10%" width="10%" ><br><br>
+        <img src="D:\ph\ui_image" alt="" height="10%" width="10%" ><br><br>
         <img src="D:\ph\ui_image\ui_3.png" alt="" height="10%" width="10%" ><br><br>
         <img src="D:\ph\ui_image\ui_4.png" alt="" height="10%" width="10%" ><br><br>
         <img src="D:\ph\ui_image\ui_5.png" alt="" height="10%" width="10%" ><br><br>
