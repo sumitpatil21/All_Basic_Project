@@ -1,38 +1,21 @@
-# anotmystar
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-<!DOCTYPE html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
 </head>
 <body>
     <center> 
         <p>
-        <img src="D:\ph\ui_image" alt="" height="10%" width="10%" ><br><br>
-        <img src="D:\ph\ui_image\ui_3.png" alt="" height="10%" width="10%" ><br><br>
-        <img src="D:\ph\ui_image\ui_4.png" alt="" height="10%" width="10%" ><br><br>
-        <img src="D:\ph\ui_image\ui_5.png" alt="" height="10%" width="10%" ><br><br>
-        <img src="D:\ph\ui_image\ui_6.png" alt="" height="10%" width="10%" ><br><br>
+        <img src="https://github.com/sumitpatil21/All_Basic_Project/assets/148967002/a8672835-eee1-40f1-a53f-5af089033982" alt="" height="10%" width="10%" ><br><br>
+        <img src="https://github.com/sumitpatil21/All_Basic_Project/assets/148967002/4269578d-00ec-4602-b707-0f2c9b79cae5)" alt="" height="10%" width="10%" ><br><br>
+        <img src="https://github.com/sumitpatil21/All_Basic_Project/assets/148967002/daa0c341-28e2-44c3-90ad-29d19e7c1abc)" alt="" height="10%" width="10%" ><br><br>
+        <img src="https://github.com/sumitpatil21/All_Basic_Project/assets/148967002/7f1ded2d-c8b2-49bf-a51f-9d09fbf36092)" alt="" height="10%" width="10%" ><br><br>
+        <img src="https://github.com/sumitpatil21/All_Basic_Project/assets/148967002/01640bef-ced4-40b8-ad6e-9d0b7854daf8)" alt="" height="10%" width="10%" ><br><br>
+        <img src="https://github.com/sumitpatil21/All_Basic_Project/assets/148967002/ea3a5928-1ce7-48f5-aacb-19f44621776b)" alt="" height="10%" width="10%" ><br><br>    
         </p>
-    </center>
-   
-   
-    
+    </center>    
 </body>
 </html>
